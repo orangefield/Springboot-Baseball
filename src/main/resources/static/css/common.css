@@ -1,0 +1,26 @@
+a {
+    color: white;
+}
+
+.btn_register {
+    background-color: #198754;
+    border: 1px solid #198754;
+    color: white;
+}
+
+.title_lg {
+    color: #198754;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.my_navbar {
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.my_navbar:hover {
+    color: white; 
+    text-decoration: none;
+} /*왜 안먹히나?*/

@@ -10,4 +10,9 @@ public class WelcomeController {
     public String main() {
         return "/layout/header";
     }
+
+    @GetMapping("/stadium-save-form")
+    public String stadiumSaveForm() {
+        return "/stadium/stadiumSaveForm";
+    }
 }
